@@ -1,0 +1,9 @@
+.card {
+  margin-top: 2rem !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  color: #ffffff !important;
+}
+
+.cardActions {
+  justify-content: flex-end !important;
+}

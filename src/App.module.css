@@ -1,0 +1,6 @@
+.background {
+  background-image: url("./img/mars.jpg");
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}

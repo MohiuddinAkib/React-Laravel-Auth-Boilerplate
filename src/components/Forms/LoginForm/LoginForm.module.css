@@ -1,0 +1,14 @@
+.links,
+.textField {
+  margin: 1rem 0 !important;
+}
+
+.actions {
+  flex-direction: column !important;
+}
+
+.avatar {
+  margin: auto !important;
+  background-color: #3f51b5 !important;
+  margin-bottom: 0.5rem !important;
+}
